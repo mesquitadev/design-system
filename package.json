@@ -1,0 +1,30 @@
+{
+  "name": "design-system",
+  "version": "1.0.0",
+  "description": "Design system developed for applications on grupo Mateus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:mesquitadev/design-system.git"
+  },
+  "keywords": [
+    "design",
+    "system",
+    "frontend",
+    "react",
+    "developers",
+    "grupo",
+    "mateus",
+    "catchup",
+    "maestro"
+  ],
+  "author": "Victor Mesquita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesquitadev/design-system/issues"
+  },
+  "homepage": "https://github.com/mesquitadev/design-system#readme"
+}
