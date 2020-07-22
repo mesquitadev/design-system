@@ -1,7 +1,7 @@
 {
   "name": "design-system",
   "version": "1.0.0",
-  "description": "Design system developed for applications on grupo Mateus",
+  "description": "Design system developed for react applications on grupo Mateus",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
